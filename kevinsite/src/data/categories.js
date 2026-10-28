@@ -16,6 +16,7 @@ export const VEHICLE_TYPES = [
   "4x4",
   "Utilitaire",
   "Citadine",
+  "Monospace",
 ];
 
 export const FUEL_TYPES = ["Essence", "Diesel", "Hybride", "Électrique"];

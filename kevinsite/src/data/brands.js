@@ -8,4 +8,5 @@ export const BRANDS = [
   "Ford",
   "Volkswagen",
   "Kia",
+  "Renault",
 ];

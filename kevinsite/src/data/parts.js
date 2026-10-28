@@ -17,9 +17,7 @@ export const parts = [
     price: 35000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1486754735734-325b5831c3ad?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-plaquettes-rav4.jpg"],
     description:
       "Plaquettes de frein avant de qualité d'origine. Freinage progressif et silencieux, usure maîtrisée. Conformes aux spécifications constructeur.",
   },
@@ -34,9 +32,7 @@ export const parts = [
     price: 95000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1486754735734-325b5831c3ad?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-disques-frein-avant.jpg"],
     description:
       "Paire de disques de frein avant ventilés. Excellente dissipation thermique et endurance au freinage. Compatible avec plaquettes d'origine.",
   },
@@ -51,9 +47,7 @@ export const parts = [
     price: 8500,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-liquide-frein.jpg"],
     description:
       "Liquide de frein DOT 4 haute performance. Point d'ébullition élevé, protection contre la corrosion. Flacon 1L.",
   },
@@ -72,9 +66,7 @@ export const parts = [
     price: 95000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-courroie-distribution.jpg"],
     description:
       "Kit complet de distribution : courroie, galets tendeurs et galet enrouleur. Remplacement recommandé tous les 100 000 km selon constructeur.",
   },
@@ -89,9 +81,7 @@ export const parts = [
     price: 24000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-bougies-allumage.jpg"],
     description:
       "Jeu de 4 bougies d'allumage iridium. Démarrage facilité, consommation optimisée et durée de vie prolongée.",
   },
@@ -106,9 +96,7 @@ export const parts = [
     price: 68000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-pompe-eau.jpg"],
     description:
       "Pompe à eau de refroidissement moteur. Roulement renforcé, joint d'étanchéité haute qualité. Remplacement conseillé avec la distribution.",
   },
@@ -123,9 +111,7 @@ export const parts = [
     price: 32000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-courroie-accessoire.jpg"],
     description:
       "Courroie trapézoïdale d'accessoires (alternateur, climatisation). Matériaux résistants à la chaleur et à l'usure.",
   },
@@ -144,9 +130,7 @@ export const parts = [
     price: 8500,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-filtre-huile-corolla.jpg"],
     description:
       "Filtre à huile haute performance. Protection moteur optimale, filtration fine des impuretés. À remplacer à chaque vidange.",
   },
@@ -161,9 +145,7 @@ export const parts = [
     price: 15000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-filtre-air.jpg"],
     description:
       "Filtre à air moteur haute efficacité. Protège le moteur des poussières et optimise la consommation de carburant.",
   },
@@ -178,9 +160,7 @@ export const parts = [
     price: 12500,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-filtre-habitacle.jpg"],
     description:
       "Filtre d'habitacle à charbon actif. Retient pollens, poussières et mauvaises odeurs. Air intérieur plus sain.",
   },
@@ -195,9 +175,7 @@ export const parts = [
     price: 18500,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1625047509168-a7026f36de04?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-filtre-carburant.jpg"],
     description:
       "Filtre à carburant diesel. Protège le système d'injection, retient l'eau et les impuretés. Essentiel pour la longévité du moteur.",
   },
@@ -216,9 +194,7 @@ export const parts = [
     price: 65000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-batterie-12v.jpg"],
     description:
       "Batterie 12V 70Ah, démarrage puissant et fiable. Sans entretien, durée de vie prolongée. Adaptée à de nombreux véhicules essence et diesel.",
   },
@@ -233,9 +209,7 @@ export const parts = [
     price: 185000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-alternateur.jpg"],
     description:
       "Alternateur 120A reconditionné. Recharge batterie efficace et alimentation stable de tous les équipements électriques.",
   },
@@ -250,9 +224,7 @@ export const parts = [
     price: 145000,
     stock: false,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-demarreur.jpg"],
     description:
       "Démarreur haute performance. Démarrage à froid fiable et silencieux. Compatible avec de nombreux modèles Toyota.",
   },
@@ -267,9 +239,7 @@ export const parts = [
     price: 22000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-ampoule-h7.jpg"],
     description:
       "Paire d'ampoules H7 LED. Éclairage blanc puissant, faible consommation, durée de vie 5x supérieure aux halogènes.",
   },
@@ -288,9 +258,7 @@ export const parts = [
     price: 120000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1493238792000-8113da705763?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-amortisseurs-rav4.jpg"],
     description:
       "Paire d'amortisseurs avant pour RAV4. Confort de conduite restauré, tenue de route améliorée, usure des pneus régulière.",
   },
@@ -305,9 +273,7 @@ export const parts = [
     price: 85000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1493238792000-8113da705763?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-ressorts-avant.jpg"],
     description:
       "Paire de ressorts hélicoïdaux avant. Acier haute résistance, traitement anticorrosion. Hauteur d'origine respectée.",
   },
@@ -322,9 +288,7 @@ export const parts = [
     price: 42000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1493238792000-8113da705763?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-rotules-direction.jpg"],
     description:
       "Paire de rotules de direction. Précision de conduite restaurée, usure régulière des pneus. Essentielles pour la sécurité.",
   },
@@ -343,9 +307,7 @@ export const parts = [
     price: 85000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-retroviseur.jpg"],
     description:
       "Rétroviseur extérieur gauche compatible Hyundai Tucson. Électrique, dégivrant, avec clignotant intégré.",
   },
@@ -360,9 +322,7 @@ export const parts = [
     price: 210000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-pare-chocs-avant.jpg"],
     description:
       "Pare-chocs avant neuf, non peint. Prêt à peindre selon la teinte d'origine. Fixations conformes au modèle.",
   },
@@ -377,9 +337,7 @@ export const parts = [
     price: 175000,
     stock: false,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-capot-moteur.jpg"],
     description:
       "Capot moteur neuf en acier. Apprêt anticorrosion appliqué. Compatible Peugeot 3008 toutes finitions.",
   },
@@ -398,9 +356,7 @@ export const parts = [
     price: 78000,
     stock: true,
     featured: true,
-    images: [
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-pneu-225-65.jpg"],
     description:
       "Pneu toutes saisons 225/65 R17. Excellent compromis adhérence, confort et longévité. Idéal pour SUV et 4x4.",
   },
@@ -415,9 +371,7 @@ export const parts = [
     price: 62000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-pneu-205-55.jpg"],
     description:
       "Pneu été 205/55 R16. Freinage court sur sol sec et mouillé, faible résistance au roulement.",
   },
@@ -432,9 +386,7 @@ export const parts = [
     price: 125000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-pneu-265-65.jpg"],
     description:
       "Pneu tout-terrain 265/65 R17. Sculpture agressive, résistance aux crevaisons. Parfait pour Hilux et pickups.",
   },
@@ -453,9 +405,7 @@ export const parts = [
     price: 145000,
     stock: false,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-phare-avant.jpg"],
     description:
       "Phare avant droit compatible Peugeot 3008. Éclairage net et conforme aux normes. Fixations d'origine.",
   },
@@ -470,9 +420,7 @@ export const parts = [
     price: 95000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-feu-arriere.jpg"],
     description:
       "Feu arrière gauche avec feux stop et clignotant intégrés. Étanchéité garantie, installation plug-and-play.",
   },
@@ -487,9 +435,7 @@ export const parts = [
     price: 38000,
     stock: true,
     featured: false,
-    images: [
-      "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?w=1200&q=80",
-    ],
+    images: ["/images/pieces/p-antibrouillard.jpg"],
     description:
       "Paire de feux antibrouillard universels. Améliore la visibilité par temps de brouillard, pluie ou neige.",
   },

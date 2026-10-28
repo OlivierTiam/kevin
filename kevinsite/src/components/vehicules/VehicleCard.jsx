@@ -187,9 +187,11 @@ export default function VehicleCard({ vehicle }) {
           <li className="flex items-center gap-1.5">
             <Fuel size={13} /> {vehicle.fuel}
           </li>
-          <li className="flex items-center gap-1.5">
-            <Gauge size={13} /> {formatMileage(vehicle.mileage)}
-          </li>
+          {vehicle.mileage != null && (
+            <li className="flex items-center gap-1.5">
+              <Gauge size={13} /> {formatMileage(vehicle.mileage)}
+            </li>
+          )}
           <li className="flex items-center gap-1.5">
             <Users size={13} /> {vehicle.seats} places
           </li>

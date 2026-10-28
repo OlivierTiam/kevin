@@ -1,11 +1,11 @@
 export const SITE = {
-  name: "Auto Motors",
-  namePart1: "AUTO",
-  namePart2: "MOTORS",
+  name: "Fusion Auto",
+  namePart1: "FUSION",
+  namePart2: "AUTO",
   tagline: "Votre prochaine voiture commence ici.",
-  whatsapp: "237600000000", // format international sans + ni espaces
-  phone: "+237 6 00 00 00 00",
-  email: "contact@automotors.com",
+  whatsapp: "16728962863", // format international sans + ni espaces
+  phone: "+1 (672) 896-2863",
+  email: "contact@fusionauto.com",
   address: "Douala, Cameroun",
   currency: "FCFA",
 };

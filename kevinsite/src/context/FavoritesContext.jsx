@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
 const FavoritesContext = createContext(null);
-const STORAGE_KEY = "automotors.favorites";
+const STORAGE_KEY = "fusionauto.favorites";
 
 export function FavoritesProvider({ children }) {
   const [ids, setIds] = useState(() => {

@@ -10,7 +10,7 @@ const CATEGORIES = [
     cta: "Voir les véhicules",
     icon: Car,
     image:
-      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=1200&q=80",
+      "/images/voitures/v-toyota-corolla-2015-1.jpg",
   },
   {
     to: "/pieces",
@@ -19,7 +19,7 @@ const CATEGORIES = [
     cta: "Voir les pièces",
     icon: Wrench,
     image:
-      "https://images.unsplash.com/photo-1486754735734-325b5831c3ad?w=1200&q=80",
+      "/images/pieces/p-disques-frein-avant.jpg",
   },
   {
     to: "/accessoires",
@@ -28,7 +28,7 @@ const CATEGORIES = [
     cta: "Découvrir",
     icon: CircleDot,
     image:
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=1200&q=80",
+      "/images/accessoires/a-dashcam.jpg",
   },
 ];
 

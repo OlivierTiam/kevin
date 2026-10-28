@@ -64,7 +64,7 @@ Merci de me répondre.`;
                 icon={Phone}
                 label="Téléphone"
                 value={SITE.phone}
-                href={`tel:${SITE.phone.replace(/\s/g, "")}`}
+                href={`tel:${SITE.phone.replace(/[^\d+]/g, "")}`}
               />
               <ContactRow
                 icon={MessageCircle}

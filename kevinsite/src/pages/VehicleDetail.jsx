@@ -67,7 +67,7 @@ export default function VehicleDetail() {
     { icon: Palette, label: "Couleur", value: vehicle.color },
     { icon: Users, label: "Places", value: `${vehicle.seats} places` },
     { icon: CheckCircle2, label: "Type", value: vehicle.vehicleType },
-  ];
+  ].filter((s) => s.value);
 
   const similar = vehicles
     .filter((v) => v.id !== vehicle.id && v.vehicleType === vehicle.vehicleType)
